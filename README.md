@@ -193,8 +193,9 @@ A machine learning project focused on predicting heart disease based on relevant
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArishAhmad06&show_icons=true&theme=github_dark&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArishAhmad06&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
 </p>
+
 
 
 ---
